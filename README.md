@@ -12,7 +12,7 @@ Throughout the development process of XFlix, the following key tasks were undert
 - XFlix Landing Page
 ![XFlix Landing Page](https://github.com/RutikKulkarni/XFlix-Frontend/assets/86470947/c4a96dc1-a18a-4222-a712-8a77fee3afd4)
 
--XFlix Video Page
+- XFlix Video Page
 ![XFlix Video Page](https://github.com/RutikKulkarni/XFlix-Frontend/assets/86470947/222dcce2-12eb-487f-a373-aae8cc3e7a48)
 
 ## Scope of Work
@@ -22,7 +22,7 @@ The scope of work for this project included:
 - Utilization of Postman collections to understand the requirements for five different REST APIs.
 - Deployment of the React application to Netlify for accessibility.
 
--XFlix Vido Uplode Model
+- XFlix Vido Uplode Model
 ![XFlix Video Upload Modal](https://github.com/RutikKulkarni/XFlix-Frontend/assets/86470947/faef5bf9-74f0-470f-b889-076b83da7b4e)
 
 ## Skills Used

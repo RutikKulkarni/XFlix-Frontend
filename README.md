@@ -1,6 +1,5 @@
 # XFlix-Frontend
 
-## Overview
 XFlix is a video sharing platform designed to host and share videos with the world. This platform allows users to watch videos hosted on the site as well as upload new videos using external video links such as YouTube. 
 
 Throughout the development process of XFlix, the following key tasks were undertaken:

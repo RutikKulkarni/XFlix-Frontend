@@ -8,6 +8,8 @@ Throughout the development process of XFlix, the following key tasks were undert
 - Employed Postman collections to comprehend API specifications.
 - Set up a mock backend server using Postman Mock Server to simulate API responses.
 
+- **Backend Repo:** [link](https://github.com/RutikKulkarni/XFlix-Node-Backend)
+
 ### XFlix Images
 - XFlix Landing Page
 ![XFlix Landing Page](https://github.com/RutikKulkarni/XFlix-Frontend/assets/86470947/c4a96dc1-a18a-4222-a712-8a77fee3afd4)

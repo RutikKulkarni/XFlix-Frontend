@@ -1,0 +1,39 @@
+.filterrow {
+  padding-right: 1rem !important;
+  padding-left: 33%;
+  padding-bottom: 3%;
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  border-radius: 28px !important;
+  background-color: rgb(147, 172, 255) !important;
+  color: black !important;
+  margin-top: 1rem !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+  font-weight: bold;
+  font-size: 1rem;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: rgb(126, 147, 219) !important;
+}
+
+.btn {
+  color: rgb(255, 255, 255) !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+  margin-top: 1rem !important;
+  font-weight: bold;
+  font-size: 1rem;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: rgb(94, 94, 94) !important;
+}
